@@ -1,0 +1,17 @@
+{
+  "name": "John mansaray readme",
+  "version": "1.0.0",
+  "description": "Professional README generator using node.js and inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansaray20/readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mansaray20/readme-generator/issues"
+  },
+  "homepage": "https://github.com/mansaray20/readme-generator#readme"
+}
